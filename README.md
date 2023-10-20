@@ -1,5 +1,7 @@
 # COPIED FROM PLAYWRIGHT REPOSITORY
-## [Materiały](https://ray.run/blog/mastering-playwright-test-automation-your-comprehensive-cheat-sheet) 
+## [CheatSheet](https://ray.run/blog/mastering-playwright-test-automation-your-comprehensive-cheat-sheet) 
+
+__________________________________________________________________
 
 # 🎭 Playwright
 
