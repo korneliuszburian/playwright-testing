@@ -1,5 +1,5 @@
 # COPIED FROM PLAYWRIGHT REPOSITORY
-
+## [Materiały](https://ray.run/blog/mastering-playwright-test-automation-your-comprehensive-cheat-sheet) 
 
 # 🎭 Playwright
 
@@ -14,10 +14,6 @@ Playwright is a framework for Web Testing and Automation. It allows testing [Chr
 | Chromium <!-- GEN:chromium-version -->119.0.6045.33<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | WebKit <!-- GEN:webkit-version -->17.4<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Firefox <!-- GEN:firefox-version -->118.0.1<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-
-Headless execution is supported for all browsers on all platforms. Check out [system requirements](https://playwright.dev/docs/intro#system-requirements) for details.
-
-Looking for Playwright for [Python](https://playwright.dev/python/docs/intro), [.NET](https://playwright.dev/dotnet/docs/intro), or [Java](https://playwright.dev/java/docs/intro)?
 
 ## Installation
 
